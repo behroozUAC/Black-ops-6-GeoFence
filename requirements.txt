@@ -1,0 +1,5 @@
+PySide6
+ipaddress
+socket
+ctypes
+Iterable
