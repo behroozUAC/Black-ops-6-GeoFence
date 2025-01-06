@@ -4,6 +4,9 @@
 
 **UAC COD GeoFence** is your ultimate Python-powered GUI companion for mastering network control. With a focus on Windows Firewall rules, this tool gives you the power to easily manage geographic-based access and specific IP ranges. Say goodbye to complexity and hello to a streamlined, intuitive experience tailored for efficiency and style.
 
+![CodGeoFence](https://github.com/user-attachments/assets/1cdc16be-19fc-4503-bc77-7d806f1f2323)
+
+
 ## 🚀 Features
 
 - **🌐 Block/Unblock Countries**: Take control of traffic with a click—block or unblock entire countries effortlessly.
